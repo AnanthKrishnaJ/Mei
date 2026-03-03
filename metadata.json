@@ -1,0 +1,5 @@
+{
+  "name": "Mei: Toxicity Detector",
+  "description": "An advanced AI-powered game chat moderation system that detects toxicity across multiple languages using Gemini 2.5 Flash Lite.",
+  "requestFramePermissions": []
+}
